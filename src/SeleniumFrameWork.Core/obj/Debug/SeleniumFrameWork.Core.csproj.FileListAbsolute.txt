@@ -1,0 +1,6 @@
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\bin\Debug\SeleniumFrameWork.Core.dll
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\bin\Debug\SeleniumFrameWork.Core.pdb
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\bin\Debug\WebDriver.dll
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\bin\Debug\WebDriver.xml
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\obj\Debug\SeleniumFrameWork.Core.dll
+C:\Users\Ramy\Documents\Visual Studio 2015\Projects\SeleniumFrameWork\SeleniumFrameWork.Core\obj\Debug\SeleniumFrameWork.Core.pdb
